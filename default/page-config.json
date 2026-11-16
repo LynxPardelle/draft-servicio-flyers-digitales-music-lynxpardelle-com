@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "servicio-flyers-digitales.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Flyers digitales para músicos y eventos | Lynx Pardelle",
+    "description": "Promociona tu próximo show con un flyer digital que tu público pueda abrir desde un enlace. Reúne el cartel, la fecha, el lugar y un botón para comprar boletos, reservar o pedir informes.",
+    "canonical": "https://servicio-flyers-digitales.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-servicio-web.webp"
+    }
+  }
+}
