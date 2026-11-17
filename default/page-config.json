@@ -7,12 +7,56 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Flyers digitales para músicos y eventos | Lynx Pardelle",
-    "description": "Promociona tu próximo show con un flyer digital que tu público pueda abrir desde un enlace. Reúne el cartel, la fecha, el lugar y un botón para comprar boletos, reservar o pedir informes.",
+    "title": "Flyers digitales para conciertos y eventos musicales | Lynx Pardelle",
+    "description": "Promociona un show con un flyer que abre desde un enlace. Reúne cartel, fecha, lugar y un botón para boletos, reservas o informes.",
     "canonical": "https://servicio-flyers-digitales.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-flyers-digitales-r2-568b7cbb7ecb1ab2.webp",
+      "title": "Flyers digitales para conciertos y eventos musicales | Lynx Pardelle",
+      "description": "Promociona un show con un flyer que abre desde un enlace. Reúne cartel, fecha, lugar y un botón para boletos, reservas o informes.",
+      "url": "https://servicio-flyers-digitales.music.lynxpardelle.com/",
+      "imageAlt": "Teléfono y pruebas visuales para anunciar un evento musical."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Flyers digitales para conciertos y eventos musicales | Lynx Pardelle",
+      "description": "Promociona un show con un flyer que abre desde un enlace. Reúne cartel, fecha, lugar y un botón para boletos, reservas o informes.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-flyers-digitales-r2-568b7cbb7ecb1ab2.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://servicio-flyers-digitales.music.lynxpardelle.com/#webpage",
+        "name": "Flyers digitales para músicos y eventos",
+        "description": "Promociona un show con un flyer que abre desde un enlace. Reúne cartel, fecha, lugar y un botón para boletos, reservas o informes.",
+        "url": "https://servicio-flyers-digitales.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Servicios",
+          "url": "https://music.lynxpardelle.com/servicios"
+        },
+        "mainEntity": {
+          "@id": "https://servicio-flyers-digitales.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "@id": "https://servicio-flyers-digitales.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Flyers digitales para músicos y eventos",
+        "description": "Promociona un show con un flyer que abre desde un enlace. Reúne cartel, fecha, lugar y un botón para boletos, reservas o informes.",
+        "url": "https://servicio-flyers-digitales.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/servicio-flyers-digitales-r2-568b7cbb7ecb1ab2.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "serviceType": "Flyers digitales para músicos y eventos"
+      }
+    ]
   }
 }
